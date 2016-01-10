@@ -1,0 +1,24 @@
+{
+  "name": "wise-sayings",
+  "version": "1.0.0",
+  "description": "Principles of software development, Wise sayings ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sameeri/wise-sayings.git"
+  },
+  "keywords": [
+    "Software",
+    "development",
+    "principles"
+  ],
+  "author": "Sameeri Marryboyina <sameeri.pavan@gmail.com> (http://www.whack-whack.info/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sameeri/wise-sayings/issues"
+  },
+  "homepage": "https://github.com/sameeri/wise-sayings#readme"
+}
