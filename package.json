@@ -20,5 +20,14 @@
   "bugs": {
     "url": "https://github.com/sameeri/wise-sayings/issues"
   },
-  "homepage": "https://github.com/sameeri/wise-sayings#readme"
+  "homepage": "https://github.com/sameeri/wise-sayings#readme",
+  "devDependencies": {
+    "commitizen": "2.7.6",
+    "cz-conventional-changelog": "1.1.5"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
 }
